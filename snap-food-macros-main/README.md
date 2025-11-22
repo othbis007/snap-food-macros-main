@@ -1,6 +1,12 @@
 
 
 ## Project info
+## Features
+
+- **AI-Powered Nutrition Analysis**: Upload meal photos to get instant nutritional breakdowns
+- **Nutrition Chatbot**: Interactive AI assistant specialized in nutrition advice (left sidebar)
+- **Dark Mode**: Toggle between light and dark themes
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## How can I edit this code?
 
@@ -51,13 +57,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 - OpenAI API (for chatbot)
-
-## Features
-
-- **AI-Powered Nutrition Analysis**: Upload meal photos to get instant nutritional breakdowns
-- **Nutrition Chatbot**: Interactive AI assistant specialized in nutrition advice (left sidebar)
-- **Dark Mode**: Toggle between light and dark themes
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## Configuration
 
